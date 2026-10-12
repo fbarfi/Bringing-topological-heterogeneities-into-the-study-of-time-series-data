@@ -1,0 +1,22 @@
+name: tda-mid
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytables
+  - pyreadstat
+  - gudhi>=3.9
+  - pot
+  - pytorch
+  - tslearn
+  - pip
+  - pip:
+      - tsai
+      - torchinfo

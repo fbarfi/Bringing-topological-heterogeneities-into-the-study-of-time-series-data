@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+
+# OS
+.DS_Store
+
+# Data (download separately; see project_data/README.md)
+project_data/*
+!project_data/README.md
+
+# Pipeline outputs
+project_results/*
+!project_results/README.md

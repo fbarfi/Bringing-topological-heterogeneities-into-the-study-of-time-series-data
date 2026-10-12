@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Bringing topological heterogeneities into the study of time-series data on militarized international disputes: a deep learning approach (replication code)"
+authors:
+  - family-names: Arfi
+    given-names: Badredine
+    affiliation: "Department of Political Science, University of Florida"
+    email: barfi@ufl.edu
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  title: "Bringing topological heterogeneities into the study of time-series data on militarized international disputes: a deep learning approach"
+  authors:
+    - family-names: Arfi
+      given-names: Badredine
+  journal: "Journal of Computational Social Science"
+  volume: 9
+  start: 67
+  year: 2026
+  doi: "10.1007/s42001-026-00499-8"
+references:
+  - type: dataset
+    title: "Replication data for Jang and Smith (2021), Pax Petrolica? Rethinking the oil-interstate war linkage, Security Studies 30(2)"
+    authors:
+      - family-names: Jang
+        given-names: H. R.
+      - family-names: Smith
+        given-names: B.
+    doi: "10.7910/DVN/V1VESK"

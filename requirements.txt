@@ -1,0 +1,21 @@
+# Core numerics
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Data input/output
+pyreadstat        # reads PaxPetrolica_Main.dta
+tables            # pandas HDF5 (.h5) support
+
+# Topological data analysis
+gudhi>=3.9        # Rips persistence, TimeDelayEmbedding, representations
+POT               # required by gudhi.wasserstein
+
+# Deep learning
+torch
+tsai              # time-series backbones; installs fastai
+torchinfo
+tslearn
